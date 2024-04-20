@@ -153,3 +153,50 @@ h3 {
     justify-content: flex-end;
     margin-left: 500px;
 }
+
+.last-section {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container {
+    background-color: #3882F6;
+    width: 60%;
+    height: 50%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left {
+    width: 70%;
+}
+
+h4 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.p-last {
+    color: #E5E7EB;
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-last-div {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #3882F6;
+    color: white;
+    width: 130px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
