@@ -127,3 +127,29 @@ h2 {
 .box-blue-msg {
     margin-right: 40px;
 }
+
+.third-section {
+    background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.p-third {
+    font-size: 18px;
+}
+
+#p-div {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 500px;
+}
